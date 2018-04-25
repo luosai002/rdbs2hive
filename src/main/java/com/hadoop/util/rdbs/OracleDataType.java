@@ -1,4 +1,4 @@
-package com.hadoop.util.common.oracle;
+package com.hadoop.util.rdbs;
 
 
 import com.hadoop.util.hive.HiveDataType;

@@ -1,4 +1,4 @@
-package com.hadoop.util.common.sqlserver;
+package com.hadoop.util.rdbs;
 
 
 import com.hadoop.util.hive.HiveDataType;

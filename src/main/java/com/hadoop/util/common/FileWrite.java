@@ -1,4 +1,4 @@
-package com.hadoop.util.common.fileUtil;
+package com.hadoop.util.common;
 
 import com.hadoop.util.common.DateTimeUtil;
 import org.springframework.stereotype.Repository;

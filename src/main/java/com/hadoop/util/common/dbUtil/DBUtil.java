@@ -1,8 +1,8 @@
 package com.hadoop.util.common.dbUtil;
 
-import com.hadoop.util.common.mysql.MysqlDataType;
-import com.hadoop.util.common.oracle.OracleDataType;
-import com.hadoop.util.common.sqlserver.SqlServerDataType;
+import com.hadoop.util.rdbs.MysqlDataType;
+import com.hadoop.util.rdbs.OracleDataType;
+import com.hadoop.util.rdbs.SqlServerDataType;
 import com.hadoop.util.hive.HiveDataType;
 import com.hadoop.util.model.ColumnInfo;
 import org.springframework.jdbc.support.JdbcUtils;

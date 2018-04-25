@@ -1,4 +1,4 @@
-package com.hadoop.util.common.mysql;
+package com.hadoop.util.rdbs;
 
 
 import com.hadoop.util.hive.HiveDataType;
